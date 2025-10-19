@@ -1,0 +1,14 @@
+[
+  {
+    "trackId": "1",
+    "trackName": "Lofi",
+    "previewUrl": "https://api.spotify.com/v1/tracks/6sAn8zDfv8nIq3gdce7QNI",
+    "duration": 29000
+  },
+  {
+    "trackId": "2",
+    "trackName": "Lofi girl",
+    "previewUrl": "https://api.spotify.com/v1/tracks/2SSPXh4w61hxCm0v6CyQB4",
+    "duration": 29000
+  }
+]
